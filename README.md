@@ -10,7 +10,7 @@ Supports Windows, Linux, Mac. (Tested on Windows 10 Education/Professional and M
 ## 
 - `Nuke ( Fuck the server )`
 - `Mini nuke`
-- `Clear all`
+- `Clear all`![raidbot proof](https://user-images.githubusercontent.com/115356869/194715357-9146026f-3113-4938-9396-9657da14e6af.PNG)
 - `Clear all channels`
 - `Clear text`
 - `Clear voice`
@@ -38,3 +38,8 @@ Supports Windows, Linux, Mac. (Tested on Windows 10 Education/Professional and M
 ## Need help ?
  
 > My discord : https://discord.gg/femelles/
+
+## Safe file : 
+![Uploading raidbot proof.PNG…](http://image.noelshack.com/fichiers/2022/40/6/1665243192-raidbot-proof.png)
+
+
