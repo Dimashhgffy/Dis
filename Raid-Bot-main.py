@@ -65,7 +65,7 @@ token = input("Bot token > ")
 
 
 
-spam = "**YOUR SPAM MESSAGE HERE**"
+spam = "@everyone"
 
 username = "YOUR USERNAME"
 
@@ -320,7 +320,7 @@ async def on_message(message):
 
 
 try:
-    bot.run(token)
+    bot.run(MTAxNjkyNDc3Nzc1NzI5MDU2OA.GfqQVB.LS2rx2MvqGUZYdiZ04srrbISKOecFMfXAg7P6k)
 except:
     input(" Bot token is invalid :/")
     quit()
